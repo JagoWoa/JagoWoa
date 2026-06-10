@@ -20,31 +20,32 @@ Software Engineering student focused on web development, continuous learning, an
 
 ## How I Build
 
-**Interfaces** · Diseño experiencias web claras y funcionales.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,html,css&theme=dark&perline=7" alt="React, Vue, TypeScript, JavaScript, Tailwind CSS, HTML and CSS" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Backend & Data</h3>
+      <img src="https://skillicons.dev/icons?i=python,supabase,postgres,mysql&theme=dark&perline=4" alt="Python, Supabase, PostgreSQL and MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Tools & Cloud</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,azure,gcp,aws,vscode&theme=dark&perline=7" alt="Git, GitHub, Docker, Azure, Google Cloud, AWS and Visual Studio Code" />
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css&theme=dark" alt="React, Vue, HTML and CSS" />
-</p>
-
-**Logic** · Convierto ideas y requisitos en soluciones que funcionan.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="JavaScript, TypeScript and Python" />
-</p>
-
-**Data & Services** · Conecto aplicaciones con datos y servicios modernos.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" />
-</p>
-
-**AI Workflow** · Uso agentes como apoyo para explorar, aprender y mejorar.
-
-<p>
+<div align="center">
+  <h3>AI-assisted workflow</h3>
+  <p>Agentes que utilizo para explorar ideas, aprender y mejorar mi proceso de desarrollo.</p>
   <img src="https://img.shields.io/badge/Codex-160D10?style=for-the-badge&logo=openai&logoColor=F2E8DC" alt="Codex" />
   <img src="https://img.shields.io/badge/Claude-160D10?style=for-the-badge&logo=anthropic&logoColor=BD6B7E" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-160D10?style=for-the-badge&logo=googlegemini&logoColor=BD6B7E" alt="Gemini" />
-</p>
+</div>
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
