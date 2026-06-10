@@ -18,13 +18,13 @@ Software Engineering student focused on web development, continuous learning, an
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
-## How I Build
+## How I Build <img src="./assets/coding-pixel.gif" width="42" alt="Pixel developer coding" />
 
 <table>
   <tr>
     <td align="center" width="50%">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,html,css&theme=dark&perline=7" alt="React, Vue, TypeScript, JavaScript, Tailwind CSS, HTML and CSS" />
+      <img src="https://skillicons.dev/icons?i=angular,react,vue,ts,js,tailwind,html,css&theme=dark&perline=8" alt="Angular, React, Vue, TypeScript, JavaScript, Tailwind CSS, HTML and CSS" />
     </td>
     <td align="center" width="50%">
       <h3>Backend & Data</h3>
@@ -67,6 +67,44 @@ Software Engineering student focused on web development, continuous learning, an
 [ACTIVE]  Utilizar agentes de IA de forma responsable durante el desarrollo
 [NEXT]    Fortalecer mis fundamentos de ingeniería de software
 ```
+
+<img width="100%" src="./assets/divider.svg" alt="" />
+
+## 🚀 Featured Builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/JagoWoa/Grupo-Interfaces">Grupo Interfaces</a></h3>
+      <p>Aplicación web colaborativa construida con Angular, internacionalización y una interfaz moderna conectada con servicios de datos.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-160D10?style=flat-square&logo=angular&logoColor=BD6B7E" alt="Angular" />
+        <img src="https://img.shields.io/badge/Tailwind-160D10?style=flat-square&logo=tailwindcss&logoColor=BD6B7E" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Supabase-160D10?style=flat-square&logo=supabase&logoColor=BD6B7E" alt="Supabase" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/JagoWoa/GobTurnos-inteligente">GobTurnos Inteligente</a></h3>
+      <p>Sistema web de turnos gubernamentales con flujos ciudadanos, gestión operativa y una interfaz enfocada en accesibilidad.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-160D10?style=flat-square&logo=react&logoColor=BD6B7E" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-160D10?style=flat-square&logo=vite&logoColor=BD6B7E" alt="Vite" />
+        <img src="https://img.shields.io/badge/Accessibility-160D10?style=flat-square&logo=accessibility&logoColor=BD6B7E" alt="Accessibility" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center"><a href="https://github.com/sebasbv11/Hackaton-shipyard-2.0">Hackaton Shipyard 2.0</a></h3>
+      <p align="center">Videojuego móvil 2D desarrollado en equipo con Godot, compuesto por una experiencia principal y distintos minijuegos.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Godot-160D10?style=flat-square&logo=godotengine&logoColor=BD6B7E" alt="Godot" />
+        <img src="https://img.shields.io/badge/GDScript-160D10?style=flat-square&logo=godotengine&logoColor=BD6B7E" alt="GDScript" />
+        <img src="https://img.shields.io/badge/Team_Project-160D10?style=flat-square&logo=github&logoColor=BD6B7E" alt="Team project" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
