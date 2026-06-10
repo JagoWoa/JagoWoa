@@ -18,7 +18,10 @@ Software Engineering student focused on web development, continuous learning, an
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
-## How I Build <img src="./assets/coding-pixel.gif" width="42" alt="Pixel developer coding" />
+<h2>
+  <img src="./assets/coding-laptop.gif" width="46" alt="Animated coding laptop" />
+  How I Build
+</h2>
 
 <table>
   <tr>
