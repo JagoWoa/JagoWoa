@@ -42,9 +42,9 @@ Software Engineering student focused on web development, continuous learning, an
 <div align="center">
   <h3>AI-assisted workflow</h3>
   <p>Agentes que utilizo para explorar ideas, aprender y mejorar mi proceso de desarrollo.</p>
-  <img src="https://img.shields.io/badge/Codex-160D10?style=for-the-badge&logo=openai&logoColor=F2E8DC" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude-160D10?style=for-the-badge&logo=anthropic&logoColor=BD6B7E" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-160D10?style=for-the-badge&logo=googlegemini&logoColor=BD6B7E" alt="Gemini" />
+  <img width="180" src="./assets/ai/codex.svg" alt="Codex" />
+  <img width="180" src="./assets/ai/claude.svg" alt="Claude" />
+  <img width="180" src="./assets/ai/gemini.svg" alt="Gemini" />
 </div>
 
 <img width="100%" src="./assets/divider.svg" alt="" />
@@ -58,9 +58,7 @@ Software Engineering student focused on web development, continuous learning, an
 [NEXT]    Fortalecer mis fundamentos de ingeniería de software
 ```
 
-## Beyond the Code
-
-No todo es código. También me atrae la cultura gamer y la forma en que los videojuegos mezclan creatividad, tecnología, diseño y resolución de desafíos. Esa misma curiosidad es la que llevo a cada proyecto: explorar, experimentar y seguir mejorando.
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## 🕹️ Player Stats & Activity
 
@@ -77,7 +75,7 @@ No todo es código. También me atrae la cultura gamer y la forma en que los vid
 
 ## Let's Connect
 
-Estoy abierto a prácticas, oportunidades profesionales y colaboraciones donde pueda seguir aprendiendo mientras construimos algo útil.
+Puedes contactarme a través de:
 
 <p>
   <a href="https://www.linkedin.com/in/jos%C3%A9-luis-sarabia-calder%C3%B3n-27179b303/">
@@ -87,5 +85,9 @@ Estoy abierto a prácticas, oportunidades profesionales y colaboraciones donde p
     <img src="https://img.shields.io/badge/Email-160D10?style=for-the-badge&logo=gmail&logoColor=BD6B7E" alt="Email" />
   </a>
 </p>
+
+<div align="center">
+  <img width="500" src="./assets/lelouch-geass.gif" alt="Lelouch Geass animation" />
+</div>
 
 <sub>Manta, Ecuador · Always learning, always building.</sub>

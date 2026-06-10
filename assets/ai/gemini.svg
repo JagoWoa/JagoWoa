@@ -1,0 +1,18 @@
+<svg width="180" height="96" viewBox="0 0 180 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Gemini</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="180" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#160D10"/>
+      <stop offset="1" stop-color="#2A1018"/>
+    </linearGradient>
+    <linearGradient id="star" x1="18" y1="16" x2="70" y2="74" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2E8DC"/>
+      <stop offset="1" stop-color="#BD6B7E"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="178" height="94" rx="16" fill="url(#bg)" stroke="#7A1F35" stroke-width="2"/>
+  <path d="M47 15C49 34 58 43 77 45C58 47 49 56 47 75C45 56 36 47 17 45C36 43 45 34 47 15Z" fill="url(#star)"/>
+  <path d="M69 20C70 28 74 32 82 33C74 34 70 38 69 46C68 38 64 34 56 33C64 32 68 28 69 20Z" fill="#7A1F35"/>
+  <text x="88" y="46" fill="#F2E8DC" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700">GEMINI</text>
+  <text x="88" y="65" fill="#BD6B7E" font-family="'Segoe UI', Arial, sans-serif" font-size="10" letter-spacing="1.5">EXPLORE</text>
+</svg>

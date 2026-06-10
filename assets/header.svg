@@ -17,15 +17,31 @@
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="28"/>
     </filter>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2E8DC" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#F2E8DC" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#F2E8DC" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="28"/>
+    </clipPath>
   </defs>
 
   <rect width="1200" height="360" rx="28" fill="url(#background)"/>
   <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
 
-  <circle cx="1040" cy="80" r="126" fill="#7A1F35" fill-opacity=".22" filter="url(#glow)"/>
+  <circle cx="1040" cy="80" r="126" fill="#7A1F35" fill-opacity=".22" filter="url(#glow)">
+    <animate attributeName="r" values="112;136;112" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values=".15;.28;.15" dur="6s" repeatCount="indefinite"/>
+  </circle>
   <circle cx="1130" cy="300" r="172" stroke="#BD6B7E" stroke-opacity=".16" stroke-width="2"/>
   <circle cx="1130" cy="300" r="126" stroke="#BD6B7E" stroke-opacity=".11" stroke-width="2"/>
   <path d="M900 0H1200V360H1040L900 0Z" fill="url(#wine)" fill-opacity=".07"/>
+  <g clip-path="url(#frame)">
+    <rect x="-220" y="-80" width="180" height="520" fill="url(#shimmer)" transform="rotate(18 0 0)">
+      <animate attributeName="x" values="-220;1380" dur="8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 
   <g transform="translate(74 76)">
     <rect width="46" height="8" rx="4" fill="#9E3E55"/>
@@ -43,8 +59,13 @@
   </g>
 
   <g transform="translate(1000 128)" stroke="#F2E8DC" stroke-linecap="round" stroke-linejoin="round">
+    <animateTransform attributeName="transform" type="translate" values="1000 128;1000 120;1000 128" dur="4s" repeatCount="indefinite"/>
     <path d="M0 38L34 4L68 38L34 72L0 38Z" stroke-opacity=".55" stroke-width="2"/>
-    <path d="M18 38L34 22L50 38L34 54L18 38Z" stroke="#BD6B7E" stroke-width="3"/>
-    <circle cx="34" cy="38" r="4" fill="#F2E8DC" stroke="none"/>
+    <path d="M18 38L34 22L50 38L34 54L18 38Z" stroke="#BD6B7E" stroke-width="3">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="34" cy="38" r="4" fill="#F2E8DC" stroke="none">
+      <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+    </circle>
   </g>
 </svg>

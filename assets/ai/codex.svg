@@ -1,0 +1,16 @@
+<svg width="180" height="96" viewBox="0 0 180 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Codex</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="180" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#160D10"/>
+      <stop offset="1" stop-color="#2A1018"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="178" height="94" rx="16" fill="url(#bg)" stroke="#7A1F35" stroke-width="2"/>
+  <g transform="translate(22 21)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 0L50 14V42L26 56L2 42V14L26 0Z" stroke="#F2E8DC" stroke-width="2"/>
+    <path d="M17 19L9 28L17 37M35 19L43 28L35 37M30 15L22 41" stroke="#BD6B7E" stroke-width="3"/>
+  </g>
+  <text x="88" y="46" fill="#F2E8DC" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700">CODEX</text>
+  <text x="88" y="65" fill="#BD6B7E" font-family="'Segoe UI', Arial, sans-serif" font-size="10" letter-spacing="1.5">BUILD</text>
+</svg>
