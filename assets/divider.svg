@@ -1,12 +1,27 @@
-<svg width="1200" height="28" viewBox="0 0 1200 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="42" viewBox="0 0 1200 42" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="line" x1="0" y1="14" x2="1200" y2="14" gradientUnits="userSpaceOnUse">
+    <linearGradient id="line" x1="0" y1="21" x2="1200" y2="21" gradientUnits="userSpaceOnUse">
       <stop stop-color="#7A1F35" stop-opacity="0"/>
       <stop offset=".25" stop-color="#7A1F35" stop-opacity=".7"/>
       <stop offset=".5" stop-color="#BD6B7E"/>
       <stop offset=".75" stop-color="#7A1F35" stop-opacity=".7"/>
       <stop offset="1" stop-color="#7A1F35" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="pulse" x1="-180" y1="21" x2="180" y2="21" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BD6B7E" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#F2E8DC"/>
+      <stop offset="1" stop-color="#BD6B7E" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-300%" width="300%" height="700%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
   </defs>
-  <path d="M0 14H570L584 4L600 24L616 4L630 14H1200" stroke="url(#line)" stroke-width="2"/>
+  <path d="M0 21H548L562 13L574 29L588 7L602 35L616 13L630 21H1200" stroke="url(#line)" stroke-width="2"/>
+  <rect x="-180" y="19" width="360" height="4" rx="2" fill="url(#pulse)" filter="url(#glow)">
+    <animate attributeName="x" values="-180;1200" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="588" cy="21" r="3" fill="#F2E8DC">
+    <animate attributeName="r" values="2;5;2" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values=".5;1;.5" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
 </svg>

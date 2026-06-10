@@ -49,16 +49,20 @@ Software Engineering student focused on web development, continuous learning, an
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
-## Currently Exploring
+## 🎮 Current Quest
 
 ```text
-01  Crear aplicaciones web modernas y accesibles
-02  Integrar servicios y bases de datos con Supabase
-03  Utilizar agentes de IA de forma responsable durante el desarrollo
-04  Fortalecer mis fundamentos de ingeniería de software
+[ACTIVE]  Crear aplicaciones web modernas y accesibles
+[ACTIVE]  Integrar servicios y bases de datos con Supabase
+[ACTIVE]  Utilizar agentes de IA de forma responsable durante el desarrollo
+[NEXT]    Fortalecer mis fundamentos de ingeniería de software
 ```
 
-## Activity
+## Beyond the Code
+
+No todo es código. También me atrae la cultura gamer y la forma en que los videojuegos mezclan creatividad, tecnología, diseño y resolución de desafíos. Esa misma curiosidad es la que llevo a cada proyecto: explorar, experimentar y seguir mejorando.
+
+## 🕹️ Player Stats & Activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JagoWoa&show_icons=true&hide_title=true&hide_border=true&bg_color=0D0A0B&text_color=F2E8DC&icon_color=9E3E55&ring_color=9E3E55" alt="GitHub activity statistics" />
@@ -66,7 +70,7 @@ Software Engineering student focused on web development, continuous learning, an
 </div>
 
 <div align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Colorful 3D contribution calendar" />
 </div>
 
 <img width="100%" src="./assets/divider.svg" alt="" />
