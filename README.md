@@ -49,6 +49,16 @@ Software Engineering student focused on web development, continuous learning, an
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
+## 🎧 Current Rotation
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21feesshqxtx6sqd57rvt2pfa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21feesshqxtx6sqd57rvt2pfa&cover_image=true&theme=default&show_offline=true&background_color=120d10&interchange=false&profanity=false&hide_remaster=true&bar_color_cover=false&bar_color=bd6b7e" alt="Currently playing on Spotify" />
+  </a>
+</div>
+
+<img width="100%" src="./assets/divider.svg" alt="" />
+
 ## 🎮 Current Quest
 
 ```text
@@ -84,6 +94,10 @@ Puedes contactarme a través de:
   <a href="mailto:jslssarabia@gmail.com">
     <img src="https://img.shields.io/badge/Email-160D10?style=for-the-badge&logo=gmail&logoColor=BD6B7E" alt="Email" />
   </a>
+  <a href="https://www.instagram.com/jose.sarabiac/">
+    <img src="https://img.shields.io/badge/Instagram-160D10?style=for-the-badge&logo=instagram&logoColor=BD6B7E" alt="Instagram" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-%40jagowoa-160D10?style=for-the-badge&logo=discord&logoColor=BD6B7E" alt="Discord: @jagowoa" />
 </p>
 
 <div align="center">
