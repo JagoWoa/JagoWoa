@@ -1,0 +1,50 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">José Luis Sarabia</title>
+  <desc id="desc">Software Engineering Student and Web Developer</desc>
+  <defs>
+    <linearGradient id="background" x1="40" y1="20" x2="1140" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D0A0B"/>
+      <stop offset="0.55" stop-color="#160D10"/>
+      <stop offset="1" stop-color="#2A1018"/>
+    </linearGradient>
+    <linearGradient id="wine" x1="150" y1="42" x2="1030" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6E1E33"/>
+      <stop offset="1" stop-color="#BD6B7E"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#F2E8DC" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1040" cy="80" r="126" fill="#7A1F35" fill-opacity=".22" filter="url(#glow)"/>
+  <circle cx="1130" cy="300" r="172" stroke="#BD6B7E" stroke-opacity=".16" stroke-width="2"/>
+  <circle cx="1130" cy="300" r="126" stroke="#BD6B7E" stroke-opacity=".11" stroke-width="2"/>
+  <path d="M900 0H1200V360H1040L900 0Z" fill="url(#wine)" fill-opacity=".07"/>
+
+  <g transform="translate(74 76)">
+    <rect width="46" height="8" rx="4" fill="#9E3E55"/>
+    <rect x="54" width="18" height="8" rx="4" fill="#F2E8DC" fill-opacity=".7"/>
+    <text x="0" y="86" fill="#F2E8DC" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="-1">
+      José Luis Sarabia
+    </text>
+    <text x="3" y="132" fill="#BD6B7E" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="3">
+      SOFTWARE ENGINEERING STUDENT · WEB DEVELOPER
+    </text>
+    <path d="M3 172H650" stroke="#F2E8DC" stroke-opacity=".13"/>
+    <text x="3" y="214" fill="#F2E8DC" fill-opacity=".68" font-family="'Segoe UI', Arial, sans-serif" font-size="18">
+      Learning with intention. Building with purpose.
+    </text>
+  </g>
+
+  <g transform="translate(1000 128)" stroke="#F2E8DC" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 38L34 4L68 38L34 72L0 38Z" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M18 38L34 22L50 38L34 54L18 38Z" stroke="#BD6B7E" stroke-width="3"/>
+    <circle cx="34" cy="38" r="4" fill="#F2E8DC" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution calendar pending generation</title>
+  <desc id="desc">The 3D contribution calendar will appear after the GitHub Action runs for the first time.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D0A0B"/>
+      <stop offset="1" stop-color="#211016"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#BD6B7E" fill-opacity=".16"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="900" height="280" rx="18" fill="url(#dots)"/>
+  <rect x="1" y="1" width="898" height="278" rx="17" stroke="#7A1F35" stroke-opacity=".45" stroke-width="2"/>
+
+  <g transform="translate(92 62)">
+    <path d="M0 82L72 40L144 82L72 124L0 82Z" stroke="#BD6B7E" stroke-width="2"/>
+    <path d="M0 82V100L72 142L144 100V82" stroke="#7A1F35" stroke-width="2"/>
+    <path d="M38 70L72 50L106 70L72 90L38 70Z" fill="#7A1F35" fill-opacity=".6"/>
+    <path d="M58 91L72 83L86 91L72 99L58 91Z" fill="#BD6B7E"/>
+  </g>
+
+  <text x="290" y="112" fill="#F2E8DC" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">
+    Activity is taking shape
+  </text>
+  <text x="290" y="152" fill="#F2E8DC" fill-opacity=".62" font-family="'Segoe UI', Arial, sans-serif" font-size="16">
+    The 3D contribution calendar will appear after its first workflow run.
+  </text>
+  <rect x="290" y="180" width="210" height="5" rx="2.5" fill="#7A1F35"/>
+  <rect x="290" y="180" width="82" height="5" rx="2.5" fill="#BD6B7E"/>
+</svg>
