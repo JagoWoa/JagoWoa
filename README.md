@@ -137,8 +137,6 @@ Puedes contactarme a través de:
   </a>
   <a href="https://www.instagram.com/jose.sarabiac/">
     <img src="https://img.shields.io/badge/Instagram-160D10?style=for-the-badge&logo=instagram&logoColor=BD6B7E" alt="Instagram" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-%40jagowoa-160D10?style=for-the-badge&logo=discord&logoColor=BD6B7E" alt="Discord: @jagowoa" />
 </p>
 
 <div align="center">
