@@ -9,7 +9,7 @@
 ```yaml
 location:       Manta, Ecuador
 education:      Ingeniería de Software · ULEAM
-current_stage:  Quinto semestre
+current_stage:  Sexto semestre
 focus:          Desarrollo web y soluciones con IA
 goal:           Aprender, colaborar y obtener experiencia profesional
 ```
@@ -87,12 +87,12 @@ Software Engineering student focused on web development, continuous learning, an
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/JagoWoa/GobTurnos-inteligente">GobTurnos Inteligente</a></h3>
-      <p>Sistema web de turnos gubernamentales con flujos ciudadanos, gestión operativa y una interfaz enfocada en accesibilidad.</p>
+      <h3 align="center"><a href="https://github.com/QueMASB233/hackathon-supabase">SecureWorkspace</a></h3>
+      <p>PWA B2B para la gestión segura de conocimiento, construida con TypeScript, Hono y Supabase (Auth, RLS y Storage), con integración de OpenAI. Proyecto con el que obtuvimos el 2.º puesto en la Hackathon Supabase 2026.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-160D10?style=flat-square&logo=react&logoColor=BD6B7E" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-160D10?style=flat-square&logo=vite&logoColor=BD6B7E" alt="Vite" />
-        <img src="https://img.shields.io/badge/Accessibility-160D10?style=flat-square&logo=accessibility&logoColor=BD6B7E" alt="Accessibility" />
+        <img src="https://img.shields.io/badge/TypeScript-160D10?style=flat-square&logo=typescript&logoColor=BD6B7E" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-160D10?style=flat-square&logo=supabase&logoColor=BD6B7E" alt="Supabase" />
+        <img src="https://img.shields.io/badge/OpenAI-160D10?style=flat-square&logo=openai&logoColor=BD6B7E" alt="OpenAI" />
       </p>
     </td>
   </tr>
